@@ -5,7 +5,7 @@
 	<classpathentry kind="src" path="src/main/webapp/META-INF"/>
 	<classpathentry kind="src" path="src/main/webapp/WEB-INF"/>
 	<classpathentry excluding="META-INF/|WEB-INF/|s/|views/|views/" kind="src" path="src/main/webapp"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_291">
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
